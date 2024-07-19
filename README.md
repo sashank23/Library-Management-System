@@ -20,8 +20,8 @@ Features
 
 How to Use
 
-1. Clone the repository: `git clone https://github.com/sashank23/Library-Management-System
-.git`
+1. Clone the repository: `git clone [https://github.com/sashank23/Library-Management-System
+.git`]
 2. Navigate to the project directory.
 3. Build the program using a C++ compiler (e.g., `g++ -o library_management main.cpp`).
 4. Run the executable: `./library_management`
